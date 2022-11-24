@@ -1,2 +1,3 @@
-# Cr-ations-Base-de-donn-es
+# Créations Base de données
+Entrainement et toute prèmiere création.
 MCD, MLD...
